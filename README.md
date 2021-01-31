@@ -1,4 +1,4 @@
-# Sentiment-analysis-with-deep-learning 
+# Sentiment-Analysis-with-Deep-Learning 
 This repository contains the code of the following paper: "Basiri, M. E., Nemati, S., Abdar, M., Cambria, E., &amp; Acharya, U. R. (2021). ABCDM: An attention-based bidirectional CNN-RNN deep model for sentiment analysis. Future Generation Computer Systems, 115, 279-294.".
 
 # Abstract 
@@ -13,3 +13,6 @@ B) We extract both past and future contexts by considering temporal information 
 C) The attention mechanism allows for putting more or less emphasis on different words.
 D) Experiments were conducted on five review and three Twitter datasets.
 E) Our model achieves state-of-the-art results on both long and short reviews
+
+# Detailed Results
+Detailed obtained results are available in the paper. Link to the paper: https://www.sciencedirect.com/science/article/pii/S0167739X20309195
