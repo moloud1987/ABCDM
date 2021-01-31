@@ -14,5 +14,9 @@ C) The attention mechanism allows for putting more or less emphasis on different
 D) Experiments were conducted on five review and three Twitter datasets.
 E) Our model achieves state-of-the-art results on both long and short reviews
 
+# Proposed Architecture of ABCDM.
+
+ABCDM-model.png
+
 # Detailed Results
 Detailed obtained results are available in the paper. Link to the paper: https://www.sciencedirect.com/science/article/pii/S0167739X20309195
