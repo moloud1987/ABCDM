@@ -6,3 +6,10 @@ Sentiment analysis has been a hot research topic in natural language processing 
 
 # Packages Used
 pandas, tensorflow, keras, sklearn, numpy, matplotlib
+
+# Highlights
+A) We propose an attention-based bidirectional CNN-RNN deep model for sentiment analysis. 
+B) We extract both past and future contexts by considering temporal information flow.
+C) The attention mechanism allows for putting more or less emphasis on different words.
+D) Experiments were conducted on five review and three Twitter datasets.
+E) Our model achieves state-of-the-art results on both long and short reviews
