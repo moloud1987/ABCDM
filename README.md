@@ -18,5 +18,10 @@ E) Our model achieves state-of-the-art results on both long and short reviews
 
 ![Test Image 1](ABCDM-model.png)
 
+# Datasets
+
+Details of the datasets used in this study: 
+![Test Image 2](datasets.png)
+
 # Detailed Results
 Detailed obtained results are available in the paper. Link to the paper: https://www.sciencedirect.com/science/article/pii/S0167739X20309195
